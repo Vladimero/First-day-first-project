@@ -16,10 +16,7 @@ function Contact() {
             <h1 data-test-id="pageTitle" className="title">
               Contact
             </h1>
-            <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in exercitation
-              labore anim adipisicing amet irure tempor.
-            </p>
+            <p className="description">I changed the content!!!</p>
             <ul className="contact-links">
               <li className="contact-item">Email: lutfhi@me.com</li>
               <li className="contact-item">Phone: +6212344321007</li>
